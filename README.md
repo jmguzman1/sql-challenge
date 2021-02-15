@@ -19,3 +19,5 @@ This repository contains an analysis of Pewlett Hackard employees of the corpora
         Frequency count of employee last names, i.e., how many employees share each last name.
 
 An Entity-Relationship Diagram is also included which displays the relationships of all the entities stored in a database. 
+
+[!ERD](https://github.com/jmguzman1/sql-challenge/blob/main/EmployeeSql/ERD_diagram.png)
